@@ -131,3 +131,4 @@ The primary objective of this project is to develop a **robust and efficient CNN
 4. **Robust Architecture**: Modern CNN design with effective regularization
 5. **Comprehensive Analysis**: Detailed performance breakdown and improvement roadmap
 
+![screencapture-colab-research-google-drive-1QiYRdamOwkX59T9HBsCYVTIcQh06lirv-2025-07-05-14_30_28](https://github.com/user-attachments/assets/a9acb329-5e93-4cbd-aa40-a21b4042feb1)
